@@ -18,3 +18,5 @@
 # vim
 *~
 *.swp
+
+/public/assets

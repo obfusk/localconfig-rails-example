@@ -1,4 +1,6 @@
 LocalconfigRailsExample::Application.routes.draw do
+  root 'messages#index'
+
   resources :messages
 
   resources :users
@@ -43,7 +45,7 @@ LocalconfigRailsExample::Application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
-  
+
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'
