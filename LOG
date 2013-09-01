@@ -1,0 +1,2 @@
+rails g scaffold User name:string password_digest:string email:string
+rails g scaffold Message text:text
