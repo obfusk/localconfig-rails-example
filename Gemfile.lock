@@ -48,7 +48,7 @@ GEM
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
     json (1.8.0)
-    localconfig (0.0.1.SNAPSHOT)
+    localconfig (0.2.0)
       hashie
       rake
     mail (2.5.4)
