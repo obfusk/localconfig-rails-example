@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2013-09-01
+    Date        : 2014-10-30
 
     Copyright   : Copyright (C) 2013  Felix C. Stegerman
 
@@ -13,7 +13,7 @@
 
   localconfig-rails-example - localconfig example w/ rails
 
-  Example rails project using localconfig [3].  See `Gemfile`,
+  Example rails project using localconfig [1].  See `Gemfile`,
   `_apps`, `config/database.yml`, `config/localconfig.rb`.
 
   You'll need to create a symlink from
@@ -25,21 +25,18 @@
 ## License
 []: {{{1
 
-  GPLv2 [1] or EPLv1 [2].
+  GPLv3+ [2].
 
 []: }}}1
 
 ## References
 []: {{{1
 
-  [1] GNU General Public License, version 2
-  --- http://www.opensource.org/licenses/GPL-2.0
-
-  [2] Eclipse Public License, version 1
-  --- http://www.opensource.org/licenses/EPL-1.0
-
-  [3] localconfig
+  [1] localconfig
   --- https://github.com/obfusk/rb-localconfig
+
+  [2] GNU General Public License, version 3
+  --- http://www.gnu.org/licenses/gpl-3.0.html
 
 []: }}}1
 
